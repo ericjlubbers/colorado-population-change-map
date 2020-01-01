@@ -973,7 +973,7 @@ $(window).on('load', function() {
          // Options.csv does not exist, so use Tabletop to fetch data from
          // the Google sheet
          mapData = Tabletop.init({
-           key: googleDocURL,
+           key: 'https://docs.google.com/spreadsheets/d/1jJdNvAzPh1ZNHMyR3_baR5y-iST7kghsAk4EhSmKM4M/edit#gid=0',
            callback: function(data, mapData) { onMapDataLoad(); }
          });
        },
