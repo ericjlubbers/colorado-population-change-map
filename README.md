@@ -1,3 +1,8 @@
+## Live links
+* Leaflet Map https://ericjlubbers.github.io/colorado-population-change-map/
+* Google Sheets template https://docs.google.com/spreadsheets/d/1jJdNvAzPh1ZNHMyR3_baR5y-iST7kghsAk4EhSmKM4M/edit#gid=0
+  
+
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
 - Inspired by: Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
